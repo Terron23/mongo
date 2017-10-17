@@ -1,0 +1,11 @@
+What is Mongoose: 
+A simple api for interacting with mongodb
+Mongoose is dope because it has a lot of features Mongo doesn't do well :
+Validation -- validate and validate sync
+validateSync() - used for simple Validation
+validate() - accepts callback function and is the mothafucking shit. Mainly used for complex validation techniques
+
+Mocha testing Functions:
+BeforeEach
+Describe
+It
